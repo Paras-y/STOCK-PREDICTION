@@ -1,7 +1,7 @@
 # STOCK-PREDICTION
 
 This project is a part of The Sparks Foundation GRIP internship which highlights time series analysis of historical stock prices and sentimental analysis of news headlines.
-![b0468c61baa72515ada2838c236466e8](https://user-images.githubusercontent.com/66546997/121324692-962ad480-c92e-11eb-9625-baadffb04c3f.jpg)
+
 
 The historical stock prices of Tesla Motots dataset has been extracted from https://finance.yahoo.com/quote/TSLA/history?period1=1465430400&period2=1623196800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
 and the news headlines data is used from 'https://finviz.com/quote.ashx?t='.
@@ -14,3 +14,5 @@ Result for sentimental analysis.
        Mean Sentiment
 Ticker                
 TSLA              0.05
+![download (1)](https://user-images.githubusercontent.com/66546997/121324990-dee28d80-c92e-11eb-97c6-5db7cb465ba3.png)
+
