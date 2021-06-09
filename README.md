@@ -13,7 +13,8 @@ I have used Auto-ARIMA model to make stock market prices predictions using the h
 In the sentiment analysis model, I have made use Natural language processing ( NLTK is used for everything from splitting sentences from paragraphs, splitting up words, recognizing the part of speech of those words, highlighting the main subjects, and then even with helping your machine to understand what the text is all about.)
 
 Result for sentimental analysis.
-      **Mean Sentiment
+   
+   **Mean Sentiment
 Ticker                
 TSLA              0.05**
 
