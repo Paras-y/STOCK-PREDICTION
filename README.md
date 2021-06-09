@@ -1,6 +1,7 @@
 # STOCK-PREDICTION
 
 This project is a part of The Sparks Foundation GRIP internship which highlights time series analysis of historical stock prices and sentimental analysis of news headlines.
+
 ![download (1)](https://user-images.githubusercontent.com/66546997/121324990-dee28d80-c92e-11eb-97c6-5db7cb465ba3.png)
 
 
